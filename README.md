@@ -87,6 +87,7 @@ Other                              36 hrs 14 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 > *"Crafting software requires artistry, guided by imagination, grounded in logic, endlessly enduring."*
+> *" - Akkarapon Phikulsri"*
 
 I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
 
