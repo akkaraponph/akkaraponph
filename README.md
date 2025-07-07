@@ -73,7 +73,7 @@ Markdown                 1 hr 1 min          █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 18 August 2021 - To: 04 July 2025
+From: 18 August 2021 - To: 05 July 2025
 
 Total Time: 496 hrs 40 mins
 
