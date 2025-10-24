@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Akkarapon Phikulsri  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Akkarapon+Phikulsri++)](https://git.io/typing-svg) 
+
+<!-- Hi there 👋 I'm Akkarapon Phikulsri   -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Glancing&color=0e75b6&style=flat" alt="akkaraponph" /> </p>
 
 ## 🧑‍💻 A Software Craftsman
