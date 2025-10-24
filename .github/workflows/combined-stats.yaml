@@ -23,7 +23,7 @@ jobs:
         with:
           username: akkaraponph
           themes: nord_light
-          target-branch: main
+          target-branch: monkey-type
           github-token: ${{ secrets.GH_TOKEN }}
 
       # Generate stats with Leaderboards
@@ -32,7 +32,7 @@ jobs:
         with:
           username: akkaraponph
           themes: nord_light
-          target-branch: main
+          target-branch: monkey-type
           github-token: ${{ secrets.GH_TOKEN }}
           leaderboard: true
 
@@ -42,7 +42,7 @@ jobs:
         with:
           username: akkaraponph
           themes: nord_light
-          target-branch: main
+          target-branch: monkey-type
           github-token: ${{ secrets.GH_TOKEN }}
           personal-bests: true
 
@@ -52,7 +52,7 @@ jobs:
         with:
           username: akkaraponph
           themes: nord_light
-          target-branch: main
+          target-branch: monkey-type
           github-token: ${{ secrets.GH_TOKEN }}
           leaderboard: true
           personal-bests: true
