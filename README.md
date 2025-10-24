@@ -17,7 +17,7 @@
 ---
 
 <a href="https://monkeytype.com/profile/akkaraponph">
-  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/main/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
 </a>
 
 
