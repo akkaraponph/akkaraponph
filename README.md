@@ -6,6 +6,10 @@
 
 ## 🧑‍💻 A Software Craftsman
 
+<!-- 
+![Degree](https://img.shields.io/badge/B.S.-Computer%20Science-blue?style=flat-square&logo=github)
+![Degree](https://img.shields.io/badge/LL.B.-Bachelor%20of%20Law-0066cc?style=flat-square&logo=git) -->
+
 - Passionate about exploring new technologies and building innovative solutions to solve real-world business challenges.
 - Skilled across a wide range of areas including frontend and backend development, cloud deployments, and microservices architecture.
 - Focused on delivering impactful, scalable, and efficient solutions.
