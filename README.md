@@ -16,9 +16,6 @@
 
 ---
 
-<a href="https://monkeytype.com/profile/akkaraponph">
-  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
-</a>
 
 
 <!--START_SECTION:waka-->
@@ -112,6 +109,9 @@ I thrive on challenges, constantly adapt to new technologies, and strive to cont
 Activity
 </h4>
   
+<a href="https://monkeytype.com/profile/akkaraponph">
+  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+</a>
 
 
  <div align="center">
