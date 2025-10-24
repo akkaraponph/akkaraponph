@@ -116,8 +116,8 @@ Activity
 
  <div align="center">
 
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react"  display=block width=69% height=auto  alt="1" >
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react" width="69%" height="auto" alt="Profile Details">
   </div>
   
 
