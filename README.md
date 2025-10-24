@@ -101,6 +101,9 @@ Other                              54 hrs 29 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀�
 I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
 
 
+<a href="https://monkeytype.com/profile/akkaraponph">
+  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+</a>
 
 
 
@@ -109,15 +112,12 @@ I thrive on challenges, constantly adapt to new technologies, and strive to cont
 Activity
 </h4>
   
-<a href="https://monkeytype.com/profile/akkaraponph">
-  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
-</a>
 
 
  <div align="center">
 
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react" width="69%" height="auto" alt="Profile Details">
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react" width="100%" height="auto" alt="Profile Details">
   </div>
   
 
@@ -247,4 +247,8 @@ flowchart LR
     linkStyle default stroke:#6b7280,stroke-width:2px
 ```
 
+---
 
+<a href="https://monkeytype.com/profile/akkaraponph">
+  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+</a>
