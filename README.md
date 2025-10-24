@@ -101,11 +101,6 @@ Other                              54 hrs 29 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀�
 I thrive on challenges, constantly adapt to new technologies, and strive to contribute to impactful software solutions.
 
 
-<a href="https://monkeytype.com/profile/akkaraponph">
-  <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
-</a>
-
-
 
 
 <h4 align="center">
