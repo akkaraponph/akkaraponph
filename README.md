@@ -81,7 +81,7 @@ JSON                     1 hr 20 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 18 August 2021 - To: 24 October 2025
+From: 18 August 2021 - To: 25 October 2025
 
 Total Time: 1,238 hrs 42 mins
 
