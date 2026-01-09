@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Glancing&color=0e75b6&style=flat" alt="akkaraponph" /> </p>
 
-![dev.to views](https://img.shields.io/badge/dynamic/json?color=0A0A0A&label=dev.to%20views&query=page_views_count&url=https://dev.to/api/articles/akkaraponph)
+![Dev.to stats](https://dev-to-readme-stats.vercel.app/api?username=akkaraponph&theme=dark)
 
 
 ## 🧑‍💻 A Software Craftsman
