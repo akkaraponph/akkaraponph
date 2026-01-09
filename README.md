@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Glancing&color=0e75b6&style=flat" alt="akkaraponph" /> </p>
 
-![Dev.to stats](https://dev-to-readme-stats.vercel.app/api?username=akkaraponph&theme=dark)
-
-
 ## 🧑‍💻 A Software Craftsman
 
 <!-- 
