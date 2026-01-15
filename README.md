@@ -243,8 +243,8 @@ flowchart LR
     linkStyle default stroke:#6b7280,stroke-width:2px
 ```
 
----
+<!-- ---
 
 <a href="https://monkeytype.com/profile/akkaraponph">
   <img src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/monkey-type/akkaraponph-monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
-</a>
+</a> -->

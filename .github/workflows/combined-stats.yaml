@@ -6,56 +6,56 @@ on:
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
-  monkeytype-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+  # monkeytype-stats:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout code
+  #       uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "latest"
+  #     - name: Set up Node.js
+  #       uses: actions/setup-node@v3
+  #       with:
+  #         node-version: "latest"
 
-      # Generate basic stats
-      - name: Generate Basic Monkeytype Stats
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: akkaraponph
-          themes: nord_light
-          target-branch: monkey-type
-          github-token: ${{ secrets.GH_TOKEN }}
+  #     # Generate basic stats
+  #     - name: Generate Basic Monkeytype Stats
+  #       uses: monkeytype-hub/monkeytype-readme@v1.0.0
+  #       with:
+  #         username: akkaraponph
+  #         themes: nord_light
+  #         target-branch: monkey-type
+  #         github-token: ${{ secrets.GH_TOKEN }}
 
-      # Generate stats with Leaderboards
-      - name: Generate Monkeytype Stats with Leaderboards
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: akkaraponph
-          themes: nord_light
-          target-branch: monkey-type
-          github-token: ${{ secrets.GH_TOKEN }}
-          leaderboard: true
+  #     # Generate stats with Leaderboards
+  #     - name: Generate Monkeytype Stats with Leaderboards
+  #       uses: monkeytype-hub/monkeytype-readme@v1.0.0
+  #       with:
+  #         username: akkaraponph
+  #         themes: nord_light
+  #         target-branch: monkey-type
+  #         github-token: ${{ secrets.GH_TOKEN }}
+  #         leaderboard: true
 
-      # Generate stats with Personal Bests
-      - name: Generate Monkeytype Stats with Personal Bests
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: akkaraponph
-          themes: nord_light
-          target-branch: monkey-type
-          github-token: ${{ secrets.GH_TOKEN }}
-          personal-bests: true
+  #     # Generate stats with Personal Bests
+  #     - name: Generate Monkeytype Stats with Personal Bests
+  #       uses: monkeytype-hub/monkeytype-readme@v1.0.0
+  #       with:
+  #         username: akkaraponph
+  #         themes: nord_light
+  #         target-branch: monkey-type
+  #         github-token: ${{ secrets.GH_TOKEN }}
+  #         personal-bests: true
 
-      # Generate stats with both Leaderboards and Personal Bests
-      - name: Generate Monkeytype Stats with Leaderboards and Personal Bests
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: akkaraponph
-          themes: nord_light
-          target-branch: monkey-type
-          github-token: ${{ secrets.GH_TOKEN }}
-          leaderboard: true
-          personal-bests: true
+  #     # Generate stats with both Leaderboards and Personal Bests
+  #     - name: Generate Monkeytype Stats with Leaderboards and Personal Bests
+  #       uses: monkeytype-hub/monkeytype-readme@v1.0.0
+  #       with:
+  #         username: akkaraponph
+  #         themes: nord_light
+  #         target-branch: monkey-type
+  #         github-token: ${{ secrets.GH_TOKEN }}
+  #         leaderboard: true
+  #         personal-bests: true
 
   generate-snake:
     runs-on: ubuntu-latest
