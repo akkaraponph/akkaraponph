@@ -81,7 +81,7 @@ JSON                     1 hr 20 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 18 August 2021 - To: 06 February 2026
+From: 18 August 2021 - To: 09 February 2026
 
 Total Time: 1,648 hrs 10 mins
 
