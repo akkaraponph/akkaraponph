@@ -12,7 +12,18 @@
 
 - Passionate about exploring new technologies and building innovative solutions to solve real-world business challenges.
 - Skilled across a wide range of areas including frontend and backend development, cloud deployments, and microservices architecture.
+
 - Focused on delivering impactful, scalable, and efficient solutions.
+
+## 🚀 My Products
+
+### <img src="./deltaview-logo.svg" height="28"> [DeltaView - See the Difference](https://deltaview.refactorroom.com/)
+The all-in-one developer toolkit to compare, visualize, format, and analyze JSON structures. Built for speed, privacy, and precision.
+
+## 🌐 Connect & Explore
+
+- **Portfolio**: [portfolio.billowdev.com](https://portfolio.billowdev.com/)
+- **Technical Articles**: [dev.to/akkaraponph](https://dev.to/akkaraponph)
 
 ---
 
