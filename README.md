@@ -14,7 +14,15 @@ I build scalable systems and developer-focused products. My work spans frontend 
 
 ## Projects
 
+### [Thai At Most](http://thaiatmost.com/) — TAM
+
+<p align="left"><img src="images/tam.svg" alt="TAM logo" width="80" /></p>
+
+---
+
 ### [DeltaView](https://deltaview.refactorroom.com/) — See the Difference
+
+<p align="left"><img src="images/deltaview-logo.svg" alt="DeltaView logo" width="80" /></p>
 
 Developer toolkit for comparing, visualizing, formatting, and analyzing JSON. Built for speed, privacy, and precision.
 
