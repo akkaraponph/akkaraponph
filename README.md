@@ -18,7 +18,7 @@ I build scalable systems and developer-focused products. My work spans frontend 
 
 <p align="left"><img src="images/tam.svg" alt="TAM logo" width="80" /></p>
 
-Thai Atmosphere - TAM (thaiatmost.com)
+Weather website for Thailand—forecasts, conditions, and local atmosphere data.
 
 ---
 
