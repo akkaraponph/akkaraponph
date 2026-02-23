@@ -14,9 +14,11 @@ I build scalable systems and developer-focused products. My work spans frontend 
 
 ## Projects
 
-### [Thai At Most](http://thaiatmost.com/) — TAM
+### [Thai Atmosphere - TAM (thaiatmost.com)](http://thaiatmost.com/)
 
 <p align="left"><img src="images/tam.svg" alt="TAM logo" width="80" /></p>
+
+Thai Atmosphere - TAM (thaiatmost.com)
 
 ---
 
