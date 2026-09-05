@@ -2,6 +2,10 @@
 
 **Software Engineer** — Full-stack development, cloud infrastructure, and developer tools.
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFlNnZ0OGgweWEyMmU0bXU5NmtuY252ZXF3em8weWlra2JwZWRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif" alt="Animated illustration" />
+</p>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
 ---
@@ -55,4 +59,3 @@ Developer toolkit for comparing, visualizing, formatting, and analyzing JSON. Bu
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a351da331073&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <a href="https://www.buymeacoffee.com/akkarapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220" alt="Buy Me a Coffee"/></a>
-
