@@ -3,7 +3,7 @@
 **Software Engineer** — Full-stack development, cloud infrastructure, and developer tools.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFlNnZ0OGgweWEyMmU0bXU5NmtuY252ZXF3em8weWlra2JwZWRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif" alt="Animated illustration" />
+  <img src="images/terminal-gif.gif" alt="Animated illustration" />
 </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
@@ -12,7 +12,11 @@
 
 ## About
 
-I build scalable systems and developer-focused products. My work spans frontend and backend development, cloud deployments, and microservices—with an emphasis on clarity, performance, and maintainability.
+Hi there, I'm Akkarapon Phikulsri, a Software Engineer with end-to-end ownership from requirements discovery and system design to implementation, integration, and production support. I work in Agile environments using Scrum, sprint-based development, and Kanban practices, collaborating closely with business, frontend, and infrastructure teams to turn real-world requirements into practical and maintainable technical solutions.
+
+I specialize in designing reliable and scalable backend systems using Golang, C#, and TypeScript, with hands-on experience in PostgreSQL, SQL Server, Kafka, Redpanda, and workflow orchestration. My experience covers RESTful APIs, GraphQL, WebSocket, gRPC, distributed systems, microservices, and enterprise API integrations. I'm comfortable working with unfamiliar systems and can quickly understand existing architectures, codebases, and business domains to contribute effectively.
+
+Beyond development, I have strong experience supporting production systems, investigating incidents, and analyzing logs, system behavior, integration issues, and data issues. I focus on software craftsmanship, clean architecture, Hexagonal Architecture, maintainability, data correctness, performance, and building systems that remain reliable and stable in production.
 
 ---
 
@@ -22,7 +26,7 @@ I build scalable systems and developer-focused products. My work spans frontend 
 
 <p align="left"><img src="images/deltaview-logo.svg" alt="DeltaView logo" width="80" /></p>
 
-Developer toolkit for comparing, visualizing, formatting, and analyzing JSON. Built for speed, privacy, and precision.
+DeltaView is a fast, privacy-first developer toolkit for comparing, visualizing, formatting, and analyzing JSON. Instantly spot changes, understand complex payloads, and validate data with a clear, focused workflow—without sending your files to a server.
 
 ---
 
