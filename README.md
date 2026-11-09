@@ -29,6 +29,8 @@ I own systems end to end: requirements, design, implementation, integration, and
 
 ## Featured projects
 
+<a href="https://github.com/akkaraponph/panda-suite"><img src="https://raw.githubusercontent.com/akkaraponph/panda-suite/main/images/branding.png" alt="Panda Suite" width="100%" /></a>
+
 **[Panda Suite](https://github.com/akkaraponph/panda-suite)** — *Agent skills for engineering and product delivery.*
 Independent Agent Skills that guide AI coding agents through planning, implementation, review, debugging, testing, and documentation.
 
