@@ -1,67 +1,55 @@
-# Akkarapon Phikulsri
+# Hi, I'm Akkarapon Phikulsri 👋
 
-**Software Engineer** — Full-stack development, cloud infrastructure, and developer tools.
+**Software Engineer · Backend & Distributed Systems**
+Go · C# · TypeScript · PostgreSQL · Kafka · Cloud
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=akkaraponph&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
-
----
-
-## About
-
-Hi there, I'm Akkarapon Phikulsri, a Software Engineer with end-to-end ownership from requirements discovery and system design to implementation, integration, and production support. I work in Agile environments using Scrum, sprint-based development, and Kanban practices, collaborating closely with business, frontend, and infrastructure teams to turn real-world requirements into practical and maintainable technical solutions.
-
-I specialize in designing reliable and scalable backend systems using Golang, C#, and TypeScript, with hands-on experience in PostgreSQL, SQL Server, Kafka, Redpanda, and workflow orchestration. My experience covers RESTful APIs, GraphQL, WebSocket, gRPC, distributed systems, microservices, and enterprise API integrations. I'm comfortable working with unfamiliar systems and can quickly understand existing architectures, codebases, and business domains to contribute effectively.
-
-Beyond development, I have strong experience supporting production systems, investigating incidents, and analyzing logs, system behavior, integration issues, and data issues. I focus on software craftsmanship, clean architecture, Hexagonal Architecture, maintainability, data correctness, performance, and building systems that remain reliable and stable in production.
+[![Portfolio](https://img.shields.io/badge/Portfolio-refactorroom.com-0e75b6?style=flat)](https://portfolio.refactorroom.com)
+[![dev.to](https://img.shields.io/badge/dev.to-akkaraponph-0A0A0A?style=flat&logo=devdotto)](https://dev.to/akkaraponph)
+![Profile views](https://komarev.com/ghpvc/?username=akkaraponph&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## Projects
+## About me
 
-### [DeltaView](https://deltaview.refactorroom.com/) — See the Difference
+I own systems end to end: requirements, design, implementation, integration, and production support. I build reliable backends and help teams ship them.
 
-<p align="left"><img src="images/deltaview-logo.svg" alt="DeltaView logo" width="80" /></p>
+- 🛠️ **Build** — REST, GraphQL, gRPC, and WebSocket APIs; microservices; event streaming with Kafka and Redpanda; workflow orchestration.
+- 🧱 **Design** — Clean and Hexagonal Architecture, with a focus on maintainability, data correctness, and performance.
+- 🔍 **Operate** — Incident investigation, log and data analysis, and integration debugging in production.
+- 🤝 **Collaborate** — Scrum and Kanban teams, working closely with business, frontend, and infrastructure. I get productive quickly in unfamiliar codebases and domains.
 
-DeltaView is a fast, privacy-first developer toolkit for comparing, visualizing, formatting, and analyzing JSON. Instantly spot changes, understand complex payloads, and validate data with a clear, focused workflow—without sending your files to a server.
+## Tech stack
 
----
-
-## Links
-
-| | |
+| Area | Tools |
 |---|---|
-| **Portfolio** | [portfolio.refactorroom.com](https://portfolio.refactorroom.com) |
-| **Technical writing** | [dev.to/akkaraponph](https://dev.to/akkaraponph) |
+| Languages | Go, C#, TypeScript |
+| Data | PostgreSQL, SQL Server |
+| Messaging | Kafka, Redpanda |
+| APIs | REST, GraphQL, gRPC, WebSocket |
 
----
+## Featured project
 
-## Activity
+<img src="images/deltaview-logo.svg" alt="DeltaView logo" width="64" align="left" />
+
+**[DeltaView](https://deltaview.refactorroom.com/)** — *See the difference.*
+A fast, privacy-first toolkit to compare, visualize, format, and validate JSON. Everything runs in your browser; your files never leave your machine.
+
+<br clear="left" />
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react" width="100%" height="auto" alt="Profile details">
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaraponph&theme=react" width="100%" alt="Profile details" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkaraponph/akkaraponph/main/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkaraponph/akkaraponph/main/output/github-snake.svg" />
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/main/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkaraponph/akkaraponph/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkaraponph/akkaraponph/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/akkaraponph/akkaraponph/output/github-snake-dark.svg" />
   </picture>
 </div>
 
----
-
-## Support / Referrals
+## Support
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a351da331073&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-<a href="https://www.buymeacoffee.com/akkarapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220" alt="Buy Me a Coffee"/></a>
-
-
-
-<p align="center">
-  <img src="images/terminal-gif.gif" alt="Animated illustration" />
-</p>
