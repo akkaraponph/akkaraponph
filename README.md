@@ -27,7 +27,11 @@ I own systems end to end: requirements, design, implementation, integration, and
 | Messaging | Kafka, Redpanda |
 | APIs | REST, GraphQL, gRPC, WebSocket |
 
-## Featured project
+## Featured projects
+
+**[Panda Suite](https://github.com/akkaraponph/panda-suite)** — *Agent skills for engineering and product delivery.*
+Independent Agent Skills that guide AI coding agents through planning, implementation, review, debugging, testing, and documentation.
+
 
 <img src="images/deltaview-logo.svg" alt="DeltaView logo" width="64" align="left" />
 
